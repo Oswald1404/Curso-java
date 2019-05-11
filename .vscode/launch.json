@@ -1,0 +1,39 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Declarar_Operaciones",
+            "request": "launch",
+            "mainClass": "Declarar_Operaciones",
+            "projectName": "Introduccion java_1aed6b50"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ExprecionesAritmeticas",
+            "request": "launch",
+            "mainClass": "ExprecionesAritmeticas",
+            "projectName": "Introduccion java_1aed6b50"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - exprecionesAritmeticas",
+            "request": "launch",
+            "mainClass": "exprecionesAritmeticas",
+            "projectName": "Introduccion java_1aed6b50"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "Introduccion java_1aed6b50"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DeclararVariable",
+            "request": "launch",
+            "mainClass": "DeclararVariable",
+            "projectName": "Introduccion java_1aed6b50"
+        }
+    ]
+}
