@@ -7,7 +7,7 @@ public class Declarar_Operaciones {
         double cm=6;
         double Resultado =cm/apulgadas;
 
-        System.out.println("En " +  cm + "cm hay " + Resultado + "pulgadas");
+        System.out.println("En " +  cm + "cm hay " + Resultado + " Pulgadas");
     
     }
 }

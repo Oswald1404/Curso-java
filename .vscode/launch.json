@@ -4,6 +4,12 @@
             "type": "java",
             "name": "CodeLens (Launch) - Declarar_Operaciones",
             "request": "launch",
+            "mainClass": "Declarar_Operaciones"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Declarar_Operaciones",
+            "request": "launch",
             "mainClass": "Declarar_Operaciones",
             "projectName": "Introduccion java_1aed6b50"
         },
